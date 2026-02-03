@@ -17,10 +17,13 @@ func TestAdder(t *testing.T) {
 // Testable Examples in Go
 // https://go.dev/blog/examples
 
+// INFO: func Example
+
 // Las funciones de ejemplo se compilan al ejecutar pruebas.
 // Dado que el compilador de Go valida estos ejemplos,
 // puede estar seguro de que los ejemplos de su documentación
 // siempre reflejan el comportamiento actual del código.
+
 func ExampleAdd() {
 	res := Add(2, 5)
 	fmt.Println(res)

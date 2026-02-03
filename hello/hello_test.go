@@ -43,6 +43,8 @@ func TestHello(t *testing.T) {
 	})
 }
 
+// INFO: func aux
+
 // esta es una funcion auxiliar para el test
 // donde podemos refactorizar para evitar codigo repetido
 // es una buena idea aceptar a, testing.TB por que

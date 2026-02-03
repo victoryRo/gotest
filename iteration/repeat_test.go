@@ -14,7 +14,9 @@ func TestRepeat(t *testing.T) {
 	}
 }
 
-// BenchmarkRepeat prueba la eficiencia del codigo
+// INFO: Benchmark
+
+// prueba la eficiencia del codigo
 // go test -bench=.
 // Nota: De forma predeterminada,
 // los Benchmark se ejecutan secuencialmente.
@@ -22,6 +24,7 @@ func TestRepeat(t *testing.T) {
 // excluye automáticamente el código de configuración
 // y limpieza del cronometraje de la prueba de rendimiento.
 // Un Benchmark típico se estructura así:
+
 func BenchmarkRepeat(b *testing.B) {
 	//... setup ...
 	for b.Loop() {

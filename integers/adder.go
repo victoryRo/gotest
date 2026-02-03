@@ -1,7 +1,9 @@
 // Package integers for test
 package integers
 
-// go doc integers
+// INFO: go doc
+
+// go doc fmt
 // podemos ver la descripcion del package
 // go doc integers Add
 // podemos ver la documentacion de la funcion
@@ -11,7 +13,9 @@ func Add(x, y int) int {
 	return x + y
 }
 
-// pkgsite: un servidor de documentación
+// INFO: pkgsite
+
+// un servidor de documentación
 // pkgsite El programa extrae y genera documentación para proyectos Go.
 // Ejemplo de uso:
 

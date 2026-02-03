@@ -1,8 +1,8 @@
 // Package hello test
 package hello
 
-// ### El proceso TDD y por qué son importantes los pasos ###
-//
+// INFO: El proceso TDD y por qué son importantes los pasos
+
 //   Escriba una prueba fallida y vea cómo falla
 //   para que sepamos que hemos escrito una prueba relevante para nuestros requisitos
 //   y hayamos visto que produce una descripción fácil de entender de la falla.
