@@ -1,0 +1,9 @@
+## Study follow-up test.  ##
+
+    1. hello world
+    2. integers
+    3. iteration
+    4. array and slice
+    5. struct, methods and interfaces
+    6. pointers & errors ...
+    7. maps  
